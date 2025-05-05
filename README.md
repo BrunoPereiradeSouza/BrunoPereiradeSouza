@@ -9,6 +9,7 @@
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="DJANGO" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+   <img align="center" alt="FASTAPI" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&style=for-the-badge"/>
 </div>
 
 ## Contact
