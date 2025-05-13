@@ -1,8 +1,8 @@
 ### Hello! My name is Bruno Souza and I am a Web Developer!👋
 
 <div>
-<img height=180em src="https://github-readme-stats.vercel.app/api?username=BrunoPereiradeSouza&show_icons=true&theme=dracula"/>
-<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPereiradeSouza&layout=compact&langs_count=16&theme=dracula"/>
+<img height=160em src="https://github-readme-stats.vercel.app/api?username=BrunoPereiradeSouza&show_icons=true&theme=dracula"/>
+<img height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPereiradeSouza&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ## Technologies I use in my day
