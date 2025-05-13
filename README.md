@@ -39,6 +39,11 @@
         height="35"
       />
     </a>
+  <a href="https://www.instagram.com/brunosouza.07" target="_blank">
+      <img
+        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        alt="Linkedin badge"
+        height="35"
+      />
+    </a>
 </p>
-
-### I seek to improve my web development skills daily!
